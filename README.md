@@ -1,8 +1,8 @@
-# Derick Gicu 
-  **`Full-Stack Software Engineer `**
+# Hi 👋, I'm Derick Gicu 
+  **`Software Engineering Student | Full Stack Mobile Developer`**
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;React+Native+Developer;Django+Backend+Developer;Learning+Data+Structures+%26+Algorithms;Always+Building.+Always+Learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Mobile+Developer;React+Native+Developer;Django+Backend+Developer;Always+Learning+New+Technologies;Building+Projects+One+Commit+at+a+Time."/>
 
 ---
 
@@ -23,7 +23,7 @@ I'm constantly pushing myself to become a better developer while exploring new t
 
 ---
 
-### 🛠️ Core Competencies & Tech Stack
+## 🛠️ Core Competencies & Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -35,18 +35,19 @@ I'm constantly pushing myself to become a better developer while exploring new t
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=reactnative)
+![ReactNative](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 
 ### Databases
 ![PostreSQL](https://img.shields.io/badge/PostreSQL-black?style=for-the-badge&logo=postresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-###Tools
+### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-black?style=for-the-badge&logo=cisco)
+![M-pesa](https://img.shields.io/badge/Mpesa-black?style=for-the-badge&logo=mpesa)
 
 ---
 
@@ -69,22 +70,25 @@ I'm constantly pushing myself to become a better developer while exploring new t
 ---
 
 # 📊 GitHub Stats
-```Gamer-25
-⭐ GitHub Stats Card
-🔥 GitHub Streak
-📈 Contribution Graph
-💻 Most Used Languages
-```
+![](https://github-readme-stats.vercel.app/api?username=Gamer-25&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gamer-25&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer-25&layout=compact&theme=tokyonight)
+
 ---
+
+## Contribution Graph
+[![ActivityGraph](https://github-readme-activity-graph.vercel.app/graph?username=Gamer-25&theme=tokyonight)](https://github.com/Gamer-25)
+
+---
+
 # 🎮 When I'm Away From the Keyboard
 
-🎮 Gaming
-
-📚 Reading
-
-🎵 Listening to Music
-
-🍥 Watching Anime
+- 🎮 Gaming
+- 📚 Reading
+- 🎵 Listening to Music
+- 🍥 Watching Anime
 
 ---
 
