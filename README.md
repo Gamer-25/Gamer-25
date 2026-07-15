@@ -39,7 +39,7 @@ I'm constantly pushing myself to become a better developer while exploring new t
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 
 ### Databases
-![PostreSQL](https://img.shields.io/badge/PostreSQL-black?style=for-the-badge&logo=postresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 ### Tools
