@@ -68,21 +68,6 @@ I'm constantly pushing myself to become a better developer while exploring new t
 -💡 Build software that creates real-world impact
 
 ---
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Gamer-25&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gamer-25&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer-25&layout=compact&theme=tokyonight)
-
----
-
-## Contribution Graph
-[![ActivityGraph](https://github-readme-activity-graph.vercel.app/graph?username=Gamer-25&theme=tokyonight)](https://github.com/Gamer-25)
-
----
-
 # 🎮 When I'm Away From the Keyboard
 
 - 🎮 Gaming
