@@ -10,13 +10,14 @@
 
 🎓 Software Engineering Student from *Kenya*
 
-📱 Passionate about *Full Stack Mobile Development*
+📱 Passionate about *Anything Tech*
 
 🧠 Currently learning
 - React Native
 - Django
 - Data Structures & Algorithms
-- Modern C++
+- LLM's and neural networks
+- Machine learning
 
 💡 I enjoy transforming ideas into practical applications that solve real-world problems. Every project I build is another opportunity to sharpen my skills and create software that people genuinely enjoy using.
 I'm constantly pushing myself to become a better developer while exploring new technologies,improving my problem-solving skills and building projects that challenge me.
