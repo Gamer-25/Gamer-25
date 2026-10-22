@@ -54,11 +54,9 @@ I'm constantly pushing myself to become a better developer while exploring new t
 
 # ☘️ Current Goals
 
--🎯 Become an exceptional Full Stack Mobile Developer
+-🎯 Become an exceptional Developer
 
 -📱 Build production-ready mobile applications
-
--⚙️ Master backend development using Django
 
 -🧠 Strengthen Data Structures & Algorithms skills
 
